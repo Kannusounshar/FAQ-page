@@ -14,5 +14,5 @@ Buildwith
 -CSS
 -JAVASCRIPT
 
-Solution Link: https://github.com/Kannusounshar/Counter/tree/main
-You can view the live project here: https://monumental-madeleine-939278.netlify.app
+Solution Link: https://github.com/Kannusounshar/FAQ-page
+You can view the live project here: https://golden-cucurucho-2295df.netlify.app
